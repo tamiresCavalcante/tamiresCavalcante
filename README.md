@@ -1,7 +1,5 @@
 ### Almost a civil engineer 👋
 
-🤔
-
 🔭 I’m currently working on .NET
 
 🌱 I’m currently learning React Native
