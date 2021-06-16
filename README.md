@@ -1,4 +1,4 @@
-#### Almost a civil engineer 👋
+### Almost a civil engineer 👋
 
 🔭 I’m currently working on .NET
 
