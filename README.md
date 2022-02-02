@@ -1,5 +1,5 @@
 # Hi, I'm Tamires Cavalcante 👋
-### Almost a civil engineer
+### Graduated Engineer
 
 🔭 I’m currently working on .NET
 
